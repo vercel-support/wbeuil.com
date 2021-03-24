@@ -6,7 +6,7 @@ import Anchor from 'components/Anchor';
 import Arrow from 'icons/arrow.svg';
 
 const Custom404: React.FC = () => {
-  return <h1>This is a test</h1>;
+  return <h1>This is a test!</h1>;
 };
 
 export default Custom404;
